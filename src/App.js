@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Footer from './components/Footer'
-import AddToDo from './containers/AddTodo'
+import AddTodo from './containers/AddTodo'
 import VisibleTodoList from './containers/VisibleTodoList'
 
 class App extends Component {
